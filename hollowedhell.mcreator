@@ -1,0 +1,131 @@
+{
+  "mod_elements": [
+    {
+      "name": "HollowBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hollow_block"
+    },
+    {
+      "name": "HollowValley",
+      "type": "biome",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hollow_valley"
+    },
+    {
+      "name": "VoidEssence",
+      "type": "fluid",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "void_essence",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "HollowedHell",
+      "type": "dimension",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hollowed_hell",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "VoidbowlPlant",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidbowl_plant"
+    },
+    {
+      "name": "VoidbowlBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidbowl_block"
+    },
+    {
+      "name": "VoidbowlStructure",
+      "type": "structure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidbowl_structure"
+    },
+    {
+      "name": "VoidbowlWastes",
+      "type": "biome",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidbowl_wastes"
+    },
+    {
+      "name": "Holeflower",
+      "type": "plant",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holeflower"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.deepest_dark.hollow_block": "Hollow Block",
+      "block.deepest_dark.holeflower": "Holeflower",
+      "biome.deepest_dark.hollow_valley": "Hollow Valley",
+      "block.deepest_dark.void_essence": "Void Essence",
+      "item.hollowedhell.hollowed_hell": "Hollowed Hell Portal Igniter",
+      "block.hollowedhell.void_essence": "Void Essence",
+      "block.hollowedhell.voidbowl_block": "Voidbowl Block",
+      "block.hollowedhell.holeflower": "Holeflower",
+      "block.deepest_dark.voidbowl_block": "Voidbowl Block",
+      "biome.deepest_dark.voidbowl_wastes": "Voidbowl Wastes",
+      "item.hollowedhell.void_essence_bucket": "Bucket of Void Essence",
+      "fluid.deepest_dark.void_essence": "Void Essence",
+      "block.hollowedhell.hollow_block": "Hollow Block",
+      "biome.hollowedhell.hollow_valley": "Hollow Valley",
+      "biome.hollowedhell.voidbowl_wastes": "Voidbowl Wastes",
+      "item.deepest_dark.void_essence_bucket": "Bucket of Void Essence",
+      "block.deepest_dark.voidbowl_plant": "Voidbowl Roots",
+      "fluid.hollowedhell.void_essence": "Void Essence",
+      "item.deepest_dark.hollowed_hell": "Hollowed Hell Portal Igniter",
+      "block.hollowedhell.voidbowl_plant": "Voidbowl Roots"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "hollowedhell",
+    "modName": "Hollowed Hell",
+    "version": "1.0.0",
+    "author": "dooli, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.hollowedhell",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

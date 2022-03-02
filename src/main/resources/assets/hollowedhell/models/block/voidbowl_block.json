@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hollowedhell:blocks/vo",
+    "up": "hollowedhell:blocks/vo",
+    "north": "hollowedhell:blocks/vo",
+    "east": "hollowedhell:blocks/vo",
+    "south": "hollowedhell:blocks/vo",
+    "west": "hollowedhell:blocks/vo",
+    "particle": "hollowedhell:blocks/vo"
+  }
+}

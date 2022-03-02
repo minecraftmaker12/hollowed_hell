@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "hollowedhell:block/holeflower"
+    },
+    "half=lower": {
+      "model": "hollowedhell:block/holeflower_bottom"
+    }
+  }
+}

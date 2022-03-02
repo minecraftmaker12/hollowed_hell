@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "hollowedhell:block/hollowed_hell_portal_ew"
+    },
+    "axis=x": {
+      "model": "hollowedhell:block/hollowed_hell_portal_ns"
+    }
+  }
+}

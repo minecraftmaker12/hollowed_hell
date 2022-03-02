@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "hollowedhell:blocks/plant",
+    "particle": "hollowedhell:blocks/plant"
+  }
+}
